@@ -1,4 +1,4 @@
-# tencent-advisor
+# 腾讯云智能顾问 OpenClaw Skill
 
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](https://clawhub.com)
 [![Tencent Cloud](https://img.shields.io/badge/Tencent%20Cloud-Advisor-FF6D00?logo=tencentqq&logoColor=white)](https://cloud.tencent.com/product/advisor)
