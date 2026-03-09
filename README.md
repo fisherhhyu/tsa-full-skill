@@ -48,11 +48,11 @@ cd tencent-advisor
 
 ## ⚙️ 配置凭证
 
-创建 `/root/.openclaw/workspace/.env` 文件：
+创建 `/root/.openclaw/workspace/.env` 文件，配置你的腾讯云密钥：
 
 ```env
-TENCENT_SECRET_ID=AKIDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-TENCENT_SECRET_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+TENCENT_SECRET_ID=你的SecretId
+TENCENT_SECRET_KEY=你的SecretKey
 ```
 
 > 💡 也支持环境变量 `TENCENT_COS_SECRET_ID` / `TENCENT_COS_SECRET_KEY`，脚本自动兼容。
